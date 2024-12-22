@@ -6,304 +6,95 @@ Method received: initialized
 [error]: Not handling: 
 [error]: initialized
 Method received: textDocument/didOpen
-[info]: Opened: file:///Users/konnorrogers/projects/lsp-from-scratch/README.md
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didSave
-[error]: Not handling: 
-[error]: textDocument/didSave
-Method received: textDocument/didChange
+[info]: Opened: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
+[info]: Sent the response
+Method received: textDocument/diagnostic
 [error]: Not handling: 
-[error]: textDocument/didChange
+[error]: textDocument/diagnostic
 Method received: textDocument/didChange
+[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
+[info]: Sent the response
+Method received: textDocument/diagnostic
 [error]: Not handling: 
-[error]: textDocument/didChange
+[error]: textDocument/diagnostic
 Method received: textDocument/didChange
+[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
+[info]: Sent the response
+Method received: textDocument/diagnostic
 [error]: Not handling: 
-[error]: textDocument/didChange
+[error]: textDocument/diagnostic
 Method received: textDocument/didChange
+[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
+[info]: Sent the response
+Method received: textDocument/completion
+[info]: Completion
+[info]: Sent the response
+Method received: textDocument/diagnostic
 [error]: Not handling: 
-[error]: textDocument/didChange
+[error]: textDocument/diagnostic
 Method received: textDocument/didChange
+[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
+[info]: Sent the response
+Method received: textDocument/diagnostic
 [error]: Not handling: 
-[error]: textDocument/didChange
+[error]: textDocument/diagnostic
 Method received: textDocument/didChange
+[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
+[info]: Sent the response
+Method received: textDocument/diagnostic
 [error]: Not handling: 
-[error]: textDocument/didChange
+[error]: textDocument/diagnostic
 Method received: textDocument/didChange
+[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
+[info]: Sent the response
+Method received: textDocument/diagnostic
 [error]: Not handling: 
-[error]: textDocument/didChange
+[error]: textDocument/diagnostic
 Method received: textDocument/didChange
+[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
+[info]: Sent the response
+Method received: textDocument/diagnostic
 [error]: Not handling: 
-[error]: textDocument/didChange
+[error]: textDocument/diagnostic
 Method received: textDocument/didChange
+[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
+[info]: Sent the response
+Method received: textDocument/diagnostic
 [error]: Not handling: 
-[error]: textDocument/didChange
+[error]: textDocument/diagnostic
 Method received: textDocument/didChange
+[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
+[info]: Sent the response
+Method received: textDocument/diagnostic
 [error]: Not handling: 
-[error]: textDocument/didChange
+[error]: textDocument/diagnostic
 Method received: textDocument/didChange
+[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
+[info]: Sent the response
+Method received: textDocument/completion
+[info]: Completion
+[info]: Sent the response
+Method received: textDocument/diagnostic
 [error]: Not handling: 
-[error]: textDocument/didChange
+[error]: textDocument/diagnostic
 Method received: textDocument/didChange
+[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
+[info]: Sent the response
+Method received: textDocument/diagnostic
 [error]: Not handling: 
-[error]: textDocument/didChange
+[error]: textDocument/diagnostic
 Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didChange
-[error]: Not handling: 
-[error]: textDocument/didChange
-Method received: textDocument/didSave
+[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
+[info]: Sent the response
+Method received: textDocument/diagnostic
 [error]: Not handling: 
-[error]: textDocument/didSave
+[error]: textDocument/diagnostic
 Method received: textDocument/didChange
+[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
+[info]: Sent the response
+Method received: textDocument/diagnostic
 [error]: Not handling: 
-[error]: textDocument/didChange
+[error]: textDocument/diagnostic
 Method received: textDocument/didSave
 [error]: Not handling: 
 [error]: textDocument/didSave
