@@ -6,25 +6,13 @@ Method received: initialized
 [error]: Not handling: 
 [error]: initialized
 Method received: textDocument/didOpen
-[info]: Opened: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
+[info]: Opened: file:///Users/konnorrogers/projects/lsp-from-scratch/README.md
 [info]: Sent the response
 Method received: textDocument/diagnostic
 [error]: Not handling: 
 [error]: textDocument/diagnostic
 Method received: textDocument/didChange
-[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
-[info]: Sent the response
-Method received: textDocument/diagnostic
-[error]: Not handling: 
-[error]: textDocument/diagnostic
-Method received: textDocument/didChange
-[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
-[info]: Sent the response
-Method received: textDocument/diagnostic
-[error]: Not handling: 
-[error]: textDocument/diagnostic
-Method received: textDocument/didChange
-[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
+[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/README.md
 [info]: Sent the response
 Method received: textDocument/completion
 [info]: Completion
@@ -33,64 +21,19 @@ Method received: textDocument/diagnostic
 [error]: Not handling: 
 [error]: textDocument/diagnostic
 Method received: textDocument/didChange
-[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
+[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/README.md
 [info]: Sent the response
 Method received: textDocument/diagnostic
 [error]: Not handling: 
 [error]: textDocument/diagnostic
 Method received: textDocument/didChange
-[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
+[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/README.md
 [info]: Sent the response
 Method received: textDocument/diagnostic
 [error]: Not handling: 
 [error]: textDocument/diagnostic
 Method received: textDocument/didChange
-[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
-[info]: Sent the response
-Method received: textDocument/diagnostic
-[error]: Not handling: 
-[error]: textDocument/diagnostic
-Method received: textDocument/didChange
-[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
-[info]: Sent the response
-Method received: textDocument/diagnostic
-[error]: Not handling: 
-[error]: textDocument/diagnostic
-Method received: textDocument/didChange
-[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
-[info]: Sent the response
-Method received: textDocument/diagnostic
-[error]: Not handling: 
-[error]: textDocument/diagnostic
-Method received: textDocument/didChange
-[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
-[info]: Sent the response
-Method received: textDocument/diagnostic
-[error]: Not handling: 
-[error]: textDocument/diagnostic
-Method received: textDocument/didChange
-[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
-[info]: Sent the response
-Method received: textDocument/completion
-[info]: Completion
-[info]: Sent the response
-Method received: textDocument/diagnostic
-[error]: Not handling: 
-[error]: textDocument/diagnostic
-Method received: textDocument/didChange
-[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
-[info]: Sent the response
-Method received: textDocument/diagnostic
-[error]: Not handling: 
-[error]: textDocument/diagnostic
-Method received: textDocument/didChange
-[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
-[info]: Sent the response
-Method received: textDocument/diagnostic
-[error]: Not handling: 
-[error]: textDocument/diagnostic
-Method received: textDocument/didChange
-[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
+[info]: Changed: file:///Users/konnorrogers/projects/lsp-from-scratch/README.md
 [info]: Sent the response
 Method received: textDocument/diagnostic
 [error]: Not handling: 
