@@ -1,0 +1,16 @@
+{
+  "name": "lsp-from-scratch",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "exports/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "lsp-from-scratch": "link:./",
+    "@types/node": "^22.10.2"
+  }
+}

@@ -1,0 +1,12 @@
+[debug]: Started!
+Method received: initialize
+[info]: Connected to: Neovim 0.11.0-dev+gbfe0acaea
+[info]: Sent the response
+Method received: initialized
+[error]: Not handling: 
+[error]: initialized
+Method received: textDocument/didOpen
+[info]: Opened: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
+Method received: shutdown
+[error]: Not handling: 
+[error]: shutdown
