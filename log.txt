@@ -6,7 +6,310 @@ Method received: initialized
 [error]: Not handling: 
 [error]: initialized
 Method received: textDocument/didOpen
-[info]: Opened: file:///Users/konnorrogers/projects/lsp-from-scratch/x.md
+[info]: Opened: file:///Users/konnorrogers/projects/lsp-from-scratch/README.md
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didSave
+[error]: Not handling: 
+[error]: textDocument/didSave
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didSave
+[error]: Not handling: 
+[error]: textDocument/didSave
+Method received: textDocument/didChange
+[error]: Not handling: 
+[error]: textDocument/didChange
+Method received: textDocument/didSave
+[error]: Not handling: 
+[error]: textDocument/didSave
+Method received: textDocument/didSave
+[error]: Not handling: 
+[error]: textDocument/didSave
 Method received: shutdown
 [error]: Not handling: 
 [error]: shutdown
